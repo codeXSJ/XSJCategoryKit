@@ -1,0 +1,16 @@
+PODS:
+  - XSJCategoryKit (0.1.0)
+
+DEPENDENCIES:
+  - XSJCategoryKit (from `../`)
+
+EXTERNAL SOURCES:
+  XSJCategoryKit:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  XSJCategoryKit: 9819839fce5a50f437d36d35ece8f63a8299b537
+
+PODFILE CHECKSUM: 5d736ddda593008f75cb947b48f50a99215d33ec
+
+COCOAPODS: 1.10.2

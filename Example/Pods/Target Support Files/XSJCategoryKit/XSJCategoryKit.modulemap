@@ -1,0 +1,6 @@
+framework module XSJCategoryKit {
+  umbrella header "XSJCategoryKit-umbrella.h"
+
+  export *
+  module * { export * }
+}
